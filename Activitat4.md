@@ -24,3 +24,6 @@
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
 ![captura](activitat4-6.png)
+![captura](activitat4-7.png)
+
+
