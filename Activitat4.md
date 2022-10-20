@@ -19,7 +19,7 @@
 
 ![captura](activitat4-5.png)
 
-**4.6.-** Busca al teu perfil quin percentatge de quota estas utilitzant.                                                      Est usant el 96%
+**4.6.-** Busca al teu perfil quin percentatge de quota estas utilitzant.                                                      **Esta usant el 96%**
 
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
