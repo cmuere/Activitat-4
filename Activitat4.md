@@ -39,3 +39,13 @@
 
 **4.11.-** Recupera la carpeta Learn more about owncloud.
 ![captura](activitat4-12.png)
+
+**4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
+![captura](activitat4-13.png)
+
+**4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
+
+![captura](activitat4-14.png)
+
+![captura](activitat4-15.png)
+Aquest add-on serveix per poder veure les imatges que penguem al ownclowd
