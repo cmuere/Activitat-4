@@ -27,3 +27,9 @@
 ![captura](activitat4-7.png)
 
 
+
+**4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.                                                                     ![captura](activitat4-8.png)
+
+**4.9.-** Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
+![captura](activitat4-9.png)
+![captura](activitat4-10.png)
