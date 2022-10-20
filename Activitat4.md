@@ -33,3 +33,9 @@
 **4.9.-** Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 ![captura](activitat4-9.png)
 ![captura](activitat4-10.png)
+
+**4.10.-** Esborra la carpeta Learn more about owncloud.
+![captura](activitat4-11.png)
+
+**4.11.-** Recupera la carpeta Learn more about owncloud.
+![captura](activitat4-12.png)
